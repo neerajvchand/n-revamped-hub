@@ -19,7 +19,7 @@ const Hero = () => {
           <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-accent/20 px-4 py-2 backdrop-blur-sm">
             <Vote className="h-4 w-4 text-primary-foreground" />
             <span className="text-sm font-semibold text-primary-foreground">
-              Election 2025 - Vote for Change
+              Election 2026 - Vote for Change
             </span>
           </div>
 
